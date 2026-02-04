@@ -15,5 +15,5 @@ além de suporte a comandos de voz para buscas hands-free.
   
   IA (Prompt Engineering): Geração de sugestões de roupas e reconhecimento de voz.
 
-  Projeto criado por um dev front-end em ascensão de Imbituba/SC, com certificações em HTML/CSS/JS e fundamentos de IA. Veja a demo na imagem do app em ação!
+  Projeto criado por um dev front-end em ascensão de Imbituba/SC, com certificações em HTML/CSS/JS e fundamentos de IA.
   
