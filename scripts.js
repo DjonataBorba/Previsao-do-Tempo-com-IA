@@ -1,9 +1,9 @@
-let chaveIA = "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"
+let chaveIA = "groq-api-Key"
 
 async function btnInput() {
   let cidade = document.querySelector("input").value
   let caixa = document.querySelector(".caixa-media")
-  let chave = "66023a5c3bc84b17ab024fbd808ae7b7"
+  let chave = "chave-openweathermap-key"
   
   let endereco = `https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=${chave}&units=metric&lang=pt_BR`
   
